@@ -230,3 +230,7 @@ body{
   background-repeat: no-repeat;
   content: "";
 }
+.belgium-img{
+  max-width: 560px;
+  width: 100%;
+}
